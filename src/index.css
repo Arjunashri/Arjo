@@ -381,8 +381,10 @@ section {
     flex-direction: column;
     align-items: center;
     padding: 120px 30px;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     transition: all 0.42s ease;
+    line-height: 3.5;
+    
   }
 
   .navmenu.open {
